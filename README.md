@@ -6,15 +6,15 @@ The code transforms an X-Ray image in a 2D Array, and save them on an Excel file
 
 Look at the zoomed pictures:
 
-[a](img1.png)
+[](https://github.com/marcelotournier/xray_in_excel/raw/master/img1.png)
 
-[a](img2.png)
+[](https://github.com/marcelotournier/xray_in_excel/raw/master/img2.png)
 
-[a](img3.png)
+[](https://github.com/marcelotournier/xray_in_excel/raw/master/img3.png)
 
-[a](img4.png)
+[](https://github.com/marcelotournier/xray_in_excel/raw/master/img4.png)
 
-[a](img5.png)
+[](https://github.com/marcelotournier/xray_in_excel/raw/master/img5.png)
 
 If you want this nice effect, do this in Excel:
 
