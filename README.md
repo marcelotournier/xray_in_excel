@@ -6,15 +6,15 @@ The code transforms an X-Ray image in a 2D Array, and save them on an Excel file
 
 Look at the zoomed pictures:
 
-[](img1.png)
+[a](img1.png)
 
-[](img2.png)
+[a](img2.png)
 
-[](img3.png)
+[a](img3.png)
 
-[](img4.png)
+[a](img4.png)
 
-[](img5.png)
+[a](img5.png)
 
 If you want this nice effect, do this in Excel:
 
